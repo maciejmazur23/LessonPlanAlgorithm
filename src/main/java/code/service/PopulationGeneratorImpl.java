@@ -4,7 +4,6 @@ import code.model.GroupTeacherSubject;
 import code.model.InputData;
 import code.model.Lesson;
 import code.model.enumes.*;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
