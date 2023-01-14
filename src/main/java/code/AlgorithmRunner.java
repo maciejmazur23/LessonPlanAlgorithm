@@ -3,6 +3,7 @@ package code;
 import code.model.GroupTeacherSubject;
 import code.model.InputData;
 import code.model.Lesson;
+import code.model.enumes.FIT_STRATEGY;
 import code.service.*;
 
 import java.util.Comparator;
@@ -12,18 +13,18 @@ public class AlgorithmRunner {
 
     public static void main(String[] args) {
         AlgorithmRunner algorithmRunner = new AlgorithmRunner();
-        algorithmRunner.runAlgorithm();
+        algorithmRunner.runAlgorithm(args);
     }
 
-    private void runAlgorithm() {
+    private void runAlgorithm(String[] args) {
         TimetableService timetableService = new TimetableServiceImpl();
-        JsonService jsonService = new JsonServiceImpl();
         PopulationGenerator populationGenerator = new PopulationGeneratorImpl();
+        JsonService jsonService = new JsonServiceImpl();
 
         List<Lesson> listFromJson = getListFromJson(jsonService);
         InputData inputData = new InputData(listFromJson);
 
-        inputData.insert();
+        inputData.setFit_strategy(FIT_STRATEGY.valueOf(args[0]));
 
         List<GroupTeacherSubject> data = inputData.getDataToTimetable();
         FitnessCalculator fitnessCalculator = new FitnessCalculatorImpl(inputData.getFit_strategy());
