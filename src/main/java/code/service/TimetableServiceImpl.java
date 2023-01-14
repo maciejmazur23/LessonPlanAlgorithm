@@ -49,7 +49,7 @@ public class TimetableServiceImpl implements TimetableService {
     }
 
     private void generateFile(StringBuilder builder) {
-        String path = "C:/Users/lenovo/IdeaProjects/OptymalizacjaKombinatoryczna/timetables";
+        String path = "timetables";
         try {
             if (Files.notExists(Paths.get(path))) Files.createDirectory(Paths.get(path));
 
