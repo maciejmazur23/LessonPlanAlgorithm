@@ -14,11 +14,11 @@ import java.util.Map;
 @RequiredArgsConstructor
 public class WindowsCalculator implements FitnessCalculator {
 
-    private final int fitness;
+    private final FitnessCalculator fitnessCalculator;
 
     @Override
     public int calculateFitness(List<Lesson> lessons) {
-        return checkWindowsBetweenLessons(lessons) + this.fitness;
+        return checkWindowsBetweenLessons(lessons) + fitnessCalculator.calculateFitness(lessons);
     }
 
     private int checkWindowsBetweenLessons(List<Lesson> chromosome) {

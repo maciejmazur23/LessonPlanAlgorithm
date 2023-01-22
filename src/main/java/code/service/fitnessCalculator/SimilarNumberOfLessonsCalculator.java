@@ -14,11 +14,11 @@ import java.util.Map;
 @RequiredArgsConstructor
 public class SimilarNumberOfLessonsCalculator implements FitnessCalculator {
 
-    private final int fitness;
+    private final FitnessCalculator fitnessCalculator;
 
     @Override
     public int calculateFitness(List<Lesson> lessons) {
-        return this.fitness + checkNumberOfLessonsInWeek(lessons);
+        return checkNumberOfLessonsInWeek(lessons) + fitnessCalculator.calculateFitness(lessons);
     }
 
     private int checkNumberOfLessonsInWeek(List<Lesson> chromosome) {

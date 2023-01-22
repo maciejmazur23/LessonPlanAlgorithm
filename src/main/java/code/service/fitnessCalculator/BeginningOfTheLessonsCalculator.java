@@ -13,11 +13,11 @@ import java.util.Map;
 @RequiredArgsConstructor
 public class BeginningOfTheLessonsCalculator implements FitnessCalculator{
 
-    private final int fitness;
+    private final FitnessCalculator fitnessCalculator;
 
     @Override
     public int calculateFitness(List<Lesson> lessons) {
-        return this.fitness + checkStartTheLessons(lessons);
+        return checkStartTheLessons(lessons) + fitnessCalculator.calculateFitness(lessons);
     }
 
     private int checkStartTheLessons(List<Lesson> lessons) {
