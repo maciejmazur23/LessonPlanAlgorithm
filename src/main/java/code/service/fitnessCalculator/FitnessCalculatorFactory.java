@@ -10,12 +10,10 @@ public abstract class FitnessCalculatorFactory {
     public static FitnessCalculator getFitnessCalculator(
             FitnessCalculator correctnessCalculator, FIT_STRATEGY strategy, List<Lesson> lessons
     ) {
-        int fitness = correctnessCalculator.calculateFitness(lessons);
-
         return switch (strategy) {
-            case WINDOWS -> new WindowsCalculator(fitness);
-            case LESSONS_START_AT_THE_BEGINNING_OF_THE_DAY -> new BeginningOfTheLessonsCalculator(fitness);
-            case SIMILAR_NUMBER_OF_LESSONS -> new SimilarNumberOfLessonsCalculator(fitness);
+            case WINDOWS -> new WindowsCalculator(correctnessCalculator);
+            case LESSONS_START_AT_THE_BEGINNING_OF_THE_DAY -> new BeginningOfTheLessonsCalculator(correctnessCalculator);
+            case SIMILAR_NUMBER_OF_LESSONS -> new SimilarNumberOfLessonsCalculator(correctnessCalculator);
         };
     }
 }
