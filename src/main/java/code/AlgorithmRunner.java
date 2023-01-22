@@ -5,6 +5,9 @@ import code.model.InputData;
 import code.model.Lesson;
 import code.model.enumes.FIT_STRATEGY;
 import code.service.*;
+import code.service.fitnessCalculator.CorrectnessCalculator;
+import code.service.fitnessCalculator.FitnessCalculator;
+import code.service.fitnessCalculator.FitnessCalculatorFactory;
 
 import java.util.Comparator;
 import java.util.List;
@@ -20,14 +23,18 @@ public class AlgorithmRunner {
         TimetableService timetableService = new TimetableServiceImpl();
         PopulationGenerator populationGenerator = new PopulationGeneratorImpl();
         JsonService jsonService = new JsonServiceImpl();
+        FitnessCalculator correctnessCalculator = new CorrectnessCalculator();
 
         List<Lesson> listFromJson = getListFromJson(jsonService);
         InputData inputData = new InputData(listFromJson);
 
-        inputData.setFit_strategy(FIT_STRATEGY.valueOf(args[0]));
+        inputData.setStrategy(FIT_STRATEGY.valueOf(args[0]));
 
         List<GroupTeacherSubject> data = inputData.getDataToTimetable();
-        FitnessCalculator fitnessCalculator = new FitnessCalculatorImpl(inputData.getFit_strategy());
+
+        FitnessCalculator fitnessCalculator = FitnessCalculatorFactory.getFitnessCalculator(
+                correctnessCalculator, inputData.getStrategy(), listFromJson
+        );
 
         int PERCENT = inputData.getPercent();
         int sizeOfPopulation = inputData.getSizeOfPopulation();

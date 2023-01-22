@@ -12,7 +12,7 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class JsonServiceImpl implements JsonService {
+public class JsonServiceImpl extends JsonService {
 
     @Override
     public List<Lesson> getListFromJson(String jsonText) {
@@ -21,8 +21,11 @@ public class JsonServiceImpl implements JsonService {
     }
 
     public String getJsonFromList(List<Lesson> chromosome) {
-        return new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create().toJson(chromosome);
-
+        return new GsonBuilder()
+                .setPrettyPrinting()
+                .disableHtmlEscaping()
+                .create()
+                .toJson(chromosome);
     }
 
     public String getJsonText() {

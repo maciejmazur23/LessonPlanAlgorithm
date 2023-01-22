@@ -4,6 +4,8 @@ import code.model.GroupTeacherSubject;
 import code.model.InputData;
 import code.model.Lesson;
 import code.model.enumes.*;
+import code.service.fitnessCalculator.FitnessCalculator;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -56,9 +58,9 @@ public class PopulationGeneratorImpl implements PopulationGenerator{
         List<Lesson> lessons = new ArrayList<>();
 
         for (GroupTeacherSubject groupTeacherSubject : listOfData) {
-            GROUP group = groupTeacherSubject.getGroup();
-            TEACHER teacher = groupTeacherSubject.getTeacher();
-            SUBJECT subject = groupTeacherSubject.getSubject();
+            GROUP group = groupTeacherSubject.group();
+            TEACHER teacher = groupTeacherSubject.teacher();
+            SUBJECT subject = groupTeacherSubject.subject();
 
             DAYS day = DAYS.getByIndex(random.nextInt(0, 5));
 
@@ -74,7 +76,7 @@ public class PopulationGeneratorImpl implements PopulationGenerator{
 
     private ROOM getRoom(GroupTeacherSubject groupTeacherSubject) {
         int roomInt;
-        if (groupTeacherSubject.getSubject().equals(SUBJECT.WF)) {
+        if (groupTeacherSubject.subject().equals(SUBJECT.WF)) {
             roomInt = random.nextInt(26, 29);
         } else roomInt = random.nextInt(0, 26);
 

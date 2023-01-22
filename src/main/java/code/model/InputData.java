@@ -16,7 +16,7 @@ public class InputData {
     private final List<Lesson> lessonsList;
     private int sizeOfPopulation = 100;
     private int percent = 10;
-    private FIT_STRATEGY fit_strategy = FIT_STRATEGY.WINDOWS;
+    private FIT_STRATEGY strategy = FIT_STRATEGY.WINDOWS;
 
     public InputData(List<Lesson> lessonsList) {
         this.lessonsList = lessonsList;
@@ -25,7 +25,7 @@ public class InputData {
     public List<GroupTeacherSubject> getDataToTimetable() {
         List<GroupTeacherSubject> dataToTimetable = new ArrayList<>();
         for (Lesson lesson : lessonsList)
-            dataToTimetable.add(new GroupTeacherSubject(lesson.getGroup(), lesson.getTeacher(), lesson.getSubject()));
+            dataToTimetable.add(new GroupTeacherSubject(lesson.group(), lesson.teacher(), lesson.subject()));
         return dataToTimetable;
     }
 }
