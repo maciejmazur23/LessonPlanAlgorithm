@@ -1,5 +1,5 @@
 package code.service;
 
-public interface TimetableService {
-    void createTimetableFiles(Timetable timetable);
+public abstract class TimetableService {
+    public abstract void createTimetableFiles(Timetable timetable);
 }

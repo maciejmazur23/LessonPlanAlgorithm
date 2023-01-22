@@ -2,6 +2,7 @@ package code.service;
 
 import code.model.GroupTeacherSubject;
 import code.model.InputData;
+import code.service.fitnessCalculator.FitnessCalculator;
 
 import java.util.List;
 

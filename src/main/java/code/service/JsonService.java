@@ -4,14 +4,14 @@ import code.model.Lesson;
 
 import java.util.List;
 
-public interface JsonService {
+public abstract class JsonService {
 
-    String getJsonFromList(List<Lesson> chromosome);
+    public abstract String getJsonFromList(List<Lesson> chromosome);
 
-    String getJsonText();
+    public abstract String getJsonText();
 
-    List<Lesson> getListFromJson(String jsonText);
+    public abstract List<Lesson> getListFromJson(String jsonText);
 
-    void saveJsonFile(String json);
+    public abstract void saveJsonFile(String json);
 
 }

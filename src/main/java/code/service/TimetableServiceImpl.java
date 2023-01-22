@@ -13,7 +13,7 @@ import java.nio.file.Paths;
 import java.time.DayOfWeek;
 import java.util.List;
 
-public class TimetableServiceImpl implements TimetableService {
+public class TimetableServiceImpl extends TimetableService {
 
     @Override
     public void createTimetableFiles(Timetable timetable) {
@@ -35,8 +35,8 @@ public class TimetableServiceImpl implements TimetableService {
                 for (DAYS day : DAYS.values()) {
                     String str = "";
                     for (Lesson lesson : lessons)
-                        if (lesson.getGroup().equals(group) && lesson.getHour().equals(hour) && lesson.getDay().equals(day)) {
-                            str = lesson.getSubject().name() + " " + lesson.getRoom().name() + " " + lesson.getTeacher().name();
+                        if (lesson.group().equals(group) && lesson.hour().equals(hour) && lesson.day().equals(day)) {
+                            str = lesson.subject().name() + " " + lesson.room().name() + " " + lesson.teacher().name();
                         }
 
                     stringBuilder.append(String.format(" %19s |", str));

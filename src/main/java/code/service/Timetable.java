@@ -6,6 +6,7 @@ import code.model.enumes.DAYS;
 import code.model.enumes.HOUR;
 import code.model.enumes.ROOM;
 import code.model.enumes.SUBJECT;
+import code.service.fitnessCalculator.FitnessCalculator;
 import lombok.Getter;
 import lombok.ToString;
 
@@ -57,15 +58,15 @@ public class Timetable {
         HOUR hour = HOUR.getHour(hourInt);
 
         int roomInt;
-        if(groupTeacherSubject.getSubject().equals(SUBJECT.WF)){
+        if(groupTeacherSubject.subject().equals(SUBJECT.WF)){
             roomInt = random.nextInt(26, 29);
         }else {
             roomInt = random.nextInt(0, 26);
         }
         ROOM room = ROOM.getRoom(roomInt);
 
-        return new Lesson(day, hour, groupTeacherSubject.getGroup(),
-                groupTeacherSubject.getTeacher(), groupTeacherSubject.getSubject(), room);
+        return new Lesson(day, hour, groupTeacherSubject.group(),
+                groupTeacherSubject.teacher(), groupTeacherSubject.subject(), room);
     }
 
 }
