@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 @RequiredArgsConstructor
-public class BeginningOfTheLessonsCalculator implements FitnessCalculator{
+public class BeginningOfTheLessonsCalculator implements FitnessCalculator {
 
     private final FitnessCalculator fitnessCalculator;
 
@@ -25,21 +25,23 @@ public class BeginningOfTheLessonsCalculator implements FitnessCalculator{
 
         for (GROUP group : GROUP.values()) {
             Map<DAYS, HOUR> startLessonsMap = new HashMap<>();
-            startLessonsMap.put(DAYS.MONDAY, HOUR.H14_35_15_20);
-            startLessonsMap.put(DAYS.TUESDAY, HOUR.H14_35_15_20);
-            startLessonsMap.put(DAYS.WEDNESDAY, HOUR.H14_35_15_20);
-            startLessonsMap.put(DAYS.THURSDAY, HOUR.H14_35_15_20);
-            startLessonsMap.put(DAYS.FRIDAY, HOUR.H14_35_15_20);
+            startLessonsMap.put(DAYS.MONDAY, null);
+            startLessonsMap.put(DAYS.TUESDAY, null);
+            startLessonsMap.put(DAYS.WEDNESDAY, null);
+            startLessonsMap.put(DAYS.THURSDAY, null);
+            startLessonsMap.put(DAYS.FRIDAY, null);
 
             for (Lesson lesson : lessons) {
-                if (lesson.group().equals(group)){
+                if (lesson.group().equals(group)) {
                     DAYS day = lesson.day();
                     HOUR hour = lesson.hour();
-                    if (startLessonsMap.get(day).ordinal()>hour.ordinal()) startLessonsMap.replace(day, hour);
+                    if ((startLessonsMap.get(day) == null) || (startLessonsMap.get(day).ordinal() > hour.ordinal()))
+                        startLessonsMap.replace(day, hour);
                 }
             }
             for (DAYS day : startLessonsMap.keySet())
-                if (startLessonsMap.get(day).ordinal() > HOUR.H8_55_9_40.ordinal()) fitness++;
+                if ((startLessonsMap.get(day) != null) &&
+                        (startLessonsMap.get(day).ordinal() > HOUR.H8_55_9_40.ordinal())) fitness++;
         }
         return fitness;
     }
