@@ -24,7 +24,7 @@ class CorrectnessCalculatorTest {
     }
 
     @Test
-    @DisplayName("All is right")
+    @DisplayName("Correct lessons")
     void test1() {
         //given
         lessons.add(new Lesson(DAYS.MONDAY, HOUR.H8_00_8_45, GROUP.A1, TEACHER.SP, SUBJECT.POLISH, ROOM.R_1));
