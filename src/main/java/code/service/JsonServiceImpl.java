@@ -32,14 +32,13 @@ public class JsonServiceImpl extends JsonService {
         String text = "";
         try {
             Class<?> forName = Class.forName("code.AlgorithmRunner");
-            InputStream stream = forName.getResourceAsStream("/input.json");
+            InputStream stream = forName.getResourceAsStream("/json/input.json");
 
             if (stream != null)
                 text = new BufferedReader(
                         new InputStreamReader(stream, StandardCharsets.UTF_8))
                         .lines()
                         .collect(Collectors.joining("\n"));
-
         } catch (Exception e) {
             e.printStackTrace();
         }

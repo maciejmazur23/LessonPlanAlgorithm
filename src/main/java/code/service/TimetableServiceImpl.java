@@ -17,10 +17,16 @@ public class TimetableServiceImpl extends TimetableService {
 
     @Override
     public void createTimetableFiles(Timetable timetable) {
-        List<Lesson> lessons = timetable.getChromosome();
-        StringBuilder stringBuilder = generateFullPlan(lessons);
+        StringBuilder stringBuilder = getStringPlanes(timetable);
         generateFile(stringBuilder);
     }
+
+    @Override
+    public StringBuilder getStringPlanes(Timetable timetable) {
+        List<Lesson> lessons = timetable.getChromosome();
+        return generateFullPlan(lessons);
+    }
+
 
     private StringBuilder generateFullPlan(List<Lesson> lessons) {
         StringBuilder stringBuilder = new StringBuilder();
@@ -29,6 +35,7 @@ public class TimetableServiceImpl extends TimetableService {
             stringBuilder.append(group).append("\n");
             stringBuilder.append(String.format(format, "", DayOfWeek.MONDAY, DayOfWeek.TUESDAY, DayOfWeek.WEDNESDAY,
                     DayOfWeek.THURSDAY, DayOfWeek.FRIDAY));
+
             for (HOUR hour : HOUR.values()) {
                 stringBuilder.append(String.format("| %12s |", hour.getTime()));
 

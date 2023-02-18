@@ -32,16 +32,21 @@ public class BeginningOfTheLessonsCalculator implements FitnessCalculator {
             startLessonsMap.put(DAYS.FRIDAY, null);
 
             for (Lesson lesson : lessons) {
+
                 if (lesson.group().equals(group)) {
                     DAYS day = lesson.day();
                     HOUR hour = lesson.hour();
-                    if ((startLessonsMap.get(day) == null) || (startLessonsMap.get(day).ordinal() > hour.ordinal()))
+                    if ((startLessonsMap.get(day) == null) || (startLessonsMap.get(day).ordinal() > hour.ordinal())){
                         startLessonsMap.replace(day, hour);
+                    }
                 }
             }
-            for (DAYS day : startLessonsMap.keySet())
+            for (DAYS day : startLessonsMap.keySet()){
                 if ((startLessonsMap.get(day) != null) &&
-                        (startLessonsMap.get(day).ordinal() > HOUR.H8_55_9_40.ordinal())) fitness++;
+                        (startLessonsMap.get(day).ordinal() > HOUR.H8_55_9_40.ordinal())){
+                    fitness++;
+                }
+            }
         }
         return fitness;
     }
