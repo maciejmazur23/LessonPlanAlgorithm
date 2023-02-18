@@ -8,10 +8,12 @@ import code.service.*;
 import code.service.fitnessCalculator.CorrectnessCalculator;
 import code.service.fitnessCalculator.FitnessCalculator;
 import code.service.fitnessCalculator.FitnessCalculatorFactory;
+import lombok.extern.slf4j.Slf4j;
 
 import java.util.Comparator;
 import java.util.List;
 
+@Slf4j
 public class AlgorithmRunner {
 
     public static void main(String[] args) {
@@ -26,27 +28,35 @@ public class AlgorithmRunner {
         FitnessCalculator correctnessCalculator = new CorrectnessCalculator();
 
         List<Lesson> listFromJson = getListFromJson(jsonService);
+        log.debug("ListFromJson: [{}]", listFromJson);
         InputData inputData = new InputData(listFromJson);
 
         inputData.setStrategy(FIT_STRATEGY.valueOf(args[0]));
+        log.info("Strategy: [{}]", FIT_STRATEGY.valueOf(args[0]));
 
         List<GroupTeacherSubject> data = inputData.getDataToTimetable();
 
-        FitnessCalculator fitnessCalculator = FitnessCalculatorFactory.getFitnessCalculator(
-                correctnessCalculator, inputData.getStrategy(), listFromJson
-        );
+        FitnessCalculator fitnessCalculator = FitnessCalculatorFactory
+                .getFitnessCalculator(correctnessCalculator, inputData.getStrategy());
 
         int PERCENT = inputData.getPercent();
+        log.info("PERCENT: [{}]", PERCENT);
         int sizeOfPopulation = inputData.getSizeOfPopulation();
         int generation = 1;
         List<Timetable> population = populationGenerator.generatePopulation(sizeOfPopulation, data, fitnessCalculator);
 
+        int previousFitness = 10;
         while (true) {
             population = population.stream()
                     .sorted(Comparator.comparing(Timetable::getFitness))
                     .toList();
 
-            if (population.get(0).getFitness() == 0) break;
+            int fitness = population.get(0).getFitness();
+            if (fitness == 0) break;
+            else if ((fitness < 10) && (previousFitness > fitness)) {
+                logResult(timetableService, population.get(0), fitness);
+                previousFitness = fitness;
+            }
 
             int sizeFromOldToNewGeneration = (PERCENT * sizeOfPopulation) / 100;
             population = populationGenerator.getNewGeneration(inputData, population, sizeFromOldToNewGeneration);
@@ -58,6 +68,11 @@ public class AlgorithmRunner {
 
         Timetable timetable = population.get(0);
         saveResult(timetableService, jsonService, timetable);
+    }
+
+    private void logResult(TimetableService timetableService, Timetable timetable, int fitness) {
+        StringBuilder planes = timetableService.getStringPlanes(timetable);
+        log.info("Fitness: {}\n{}\n", fitness, planes);
     }
 
     private void saveResult(TimetableService timetableService, JsonService jsonService, Timetable timetable) {

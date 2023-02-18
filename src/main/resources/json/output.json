@@ -1,207 +1,215 @@
 [
   {
     "day": "FRIDAY",
-    "hour": "H8_00_8_45",
+    "hour": "H9_50_10_35",
     "group": "A1",
     "teacher": "EK",
     "subject": "CHEMISTRY",
-    "room": "R_15"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
-    "group": "A1",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_16"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "A1",
-    "teacher": "MM",
-    "subject": "BIOLOGY",
-    "room": "R_4"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "A1",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_9"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "A1",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_8"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_00_8_45",
-    "group": "A1",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_21"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "A1",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_15"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "A1",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_26"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "A1",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_16"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "A1",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_22"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "A1",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_2"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "A1",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_11"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "A1",
-    "teacher": "KT",
-    "subject": "ENGLISH",
-    "room": "R_19"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "A1",
-    "teacher": "KT",
-    "subject": "ENGLISH",
-    "room": "R_15"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "A1",
-    "teacher": "KT",
-    "subject": "ENGLISH",
-    "room": "R_5"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_55_9_40",
-    "group": "A1",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_13"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "A1",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_24"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "A1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_7"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "A1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_23"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
-    "group": "A1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_13"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "A1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_19"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "A1",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_26"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "A1",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_7"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "A1",
-    "teacher": "JM",
-    "subject": "WOS",
     "room": "R_12"
   },
   {
     "day": "TUESDAY",
-    "hour": "H12_45_13_30",
+    "hour": "H10_55_11_40",
     "group": "A1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_4"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_00_8_45",
+    "group": "A1",
+    "teacher": "MM",
+    "subject": "BIOLOGY",
+    "room": "R_21"
   },
   {
     "day": "WEDNESDAY",
+    "hour": "H8_00_8_45",
+    "group": "A1",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_26"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "A1",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_19"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A1",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_17"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "A1",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_26"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "A1",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "A1",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_7"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "A1",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_14"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A1",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_9"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
+    "group": "A1",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_5"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "A1",
+    "teacher": "KT",
+    "subject": "ENGLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "FRIDAY",
     "hour": "H11_50_12_35",
+    "group": "A1",
+    "teacher": "KT",
+    "subject": "ENGLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H14_35_15_20",
+    "group": "A1",
+    "teacher": "KT",
+    "subject": "ENGLISH",
+    "room": "R_24"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "A1",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_21"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_00_8_45",
+    "group": "A1",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_25"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "A1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_16"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "A1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_7"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "A1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_11"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "A1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_12"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "A1",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_26"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "A1",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_6"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "A1",
+    "teacher": "JM",
+    "subject": "WOS",
+    "room": "R_26"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "A1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_00_8_45",
     "group": "A1",
     "teacher": "PS",
     "subject": "WF",
@@ -209,43 +217,43 @@
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "A1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
+    "hour": "H12_45_13_30",
     "group": "B1",
     "teacher": "EK",
     "subject": "CHEMISTRY",
-    "room": "R_23"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
-    "group": "B1",
-    "teacher": "MM",
-    "subject": "GEOGRAPHY",
-    "room": "R_2"
+    "room": "R_14"
   },
   {
     "day": "MONDAY",
-    "hour": "H8_55_9_40",
+    "hour": "H11_50_12_35",
     "group": "B1",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_1"
+    "teacher": "MM",
+    "subject": "GEOGRAPHY",
+    "room": "R_24"
   },
   {
     "day": "TUESDAY",
-    "hour": "H13_40_14_25",
+    "hour": "H10_55_11_40",
+    "group": "B1",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_26"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
     "group": "B1",
     "teacher": "EK",
     "subject": "PHYSICS",
-    "room": "R_6"
+    "room": "R_21"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "B1",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_3"
   },
   {
     "day": "TUESDAY",
@@ -253,47 +261,23 @@
     "group": "B1",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_25"
+    "room": "R_12"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "B1",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_10"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "B1",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_15"
-  },
-  {
-    "day": "THURSDAY",
+    "day": "WEDNESDAY",
     "hour": "H11_50_12_35",
+    "group": "B1",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_24"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H14_35_15_20",
     "group": "B1",
     "teacher": "WK",
     "subject": "INFORMATICS",
-    "room": "R_7"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
-    "group": "B1",
-    "teacher": "JR",
-    "subject": "ENGLISH",
-    "room": "R_21"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "B1",
-    "teacher": "JR",
-    "subject": "ENGLISH",
-    "room": "R_3"
+    "room": "R_13"
   },
   {
     "day": "TUESDAY",
@@ -301,31 +285,63 @@
     "group": "B1",
     "teacher": "JR",
     "subject": "ENGLISH",
-    "room": "R_26"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "B1",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_12"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "B1",
-    "teacher": "LZ",
-    "subject": "GERMAN",
     "room": "R_8"
   },
   {
     "day": "TUESDAY",
     "hour": "H8_55_9_40",
     "group": "B1",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "B1",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_17"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
+    "group": "B1",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_13"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
+    "group": "B1",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_2"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
+    "group": "B1",
     "teacher": "MD",
     "subject": "POLISH",
-    "room": "R_3"
+    "room": "R_8"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
+    "group": "B1",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_00_8_45",
+    "group": "B1",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_16"
   },
   {
     "day": "THURSDAY",
@@ -333,191 +349,183 @@
     "group": "B1",
     "teacher": "MD",
     "subject": "POLISH",
-    "room": "R_12"
+    "room": "R_13"
   },
   {
-    "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "B1",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_26"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "B1",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_3"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "B1",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_4"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
     "group": "B1",
     "teacher": "MD",
     "subject": "POLISH",
     "room": "R_25"
   },
   {
-    "day": "MONDAY",
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "B1",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_23"
+  },
+  {
+    "day": "THURSDAY",
     "hour": "H11_50_12_35",
     "group": "B1",
     "teacher": "AJ",
     "subject": "HISTORY",
-    "room": "R_2"
+    "room": "R_20"
   },
   {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "B1",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_18"
-  },
-  {
-    "day": "WEDNESDAY",
+    "day": "THURSDAY",
     "hour": "H13_40_14_25",
     "group": "B1",
     "teacher": "AJ",
     "subject": "HISTORY",
-    "room": "R_10"
+    "room": "R_14"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
     "group": "B1",
     "teacher": "AJ",
     "subject": "HISTORY",
     "room": "R_12"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "B1",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_16"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
     "group": "B1",
     "teacher": "JM",
     "subject": "WOS",
     "room": "R_8"
   },
   {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "B1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "B1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "B1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "C1",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_25"
-  },
-  {
-    "day": "FRIDAY",
+    "day": "WEDNESDAY",
     "hour": "H12_45_13_30",
-    "group": "C1",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_9"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "C1",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_15"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "C1",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_4"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "C1",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_2"
+    "group": "B1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
   },
   {
     "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "B1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "B1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
+    "group": "C1",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_18"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_00_8_45",
+    "group": "C1",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_4"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
+    "group": "C1",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_4"
+  },
+  {
+    "day": "TUESDAY",
     "hour": "H10_55_11_40",
+    "group": "C1",
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_18"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "C1",
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_8"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
     "group": "C1",
     "teacher": "PA",
     "subject": "BIOLOGY",
     "room": "R_11"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H8_00_8_45",
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
     "group": "C1",
     "teacher": "WJ",
     "subject": "PHYSICS",
-    "room": "R_14"
+    "room": "R_6"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "C1",
-    "teacher": "MN",
-    "subject": "MATH",
-    "room": "R_26"
-  },
-  {
-    "day": "TUESDAY",
+    "day": "WEDNESDAY",
     "hour": "H10_55_11_40",
     "group": "C1",
     "teacher": "MN",
     "subject": "MATH",
-    "room": "R_3"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "C1",
-    "teacher": "MN",
-    "subject": "MATH",
-    "room": "R_9"
+    "room": "R_8"
   },
   {
     "day": "FRIDAY",
     "hour": "H11_50_12_35",
     "group": "C1",
+    "teacher": "MN",
+    "subject": "MATH",
+    "room": "R_11"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "C1",
+    "teacher": "MN",
+    "subject": "MATH",
+    "room": "R_25"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "C1",
     "teacher": "BD",
     "subject": "INFORMATICS",
-    "room": "R_4"
+    "room": "R_12"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "C1",
+    "teacher": "MZ",
+    "subject": "ENGLISH",
+    "room": "R_14"
   },
   {
     "day": "MONDAY",
@@ -525,7 +533,15 @@
     "group": "C1",
     "teacher": "MZ",
     "subject": "ENGLISH",
-    "room": "R_9"
+    "room": "R_4"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "C1",
+    "teacher": "MZ",
+    "subject": "ENGLISH",
+    "room": "R_22"
   },
   {
     "day": "THURSDAY",
@@ -533,163 +549,139 @@
     "group": "C1",
     "teacher": "MZ",
     "subject": "ENGLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "C1",
-    "teacher": "MZ",
-    "subject": "ENGLISH",
-    "room": "R_9"
+    "room": "R_3"
   },
   {
     "day": "FRIDAY",
     "hour": "H9_50_10_35",
     "group": "C1",
-    "teacher": "MZ",
-    "subject": "ENGLISH",
-    "room": "R_17"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H11_50_12_35",
-    "group": "C1",
     "teacher": "LZ",
     "subject": "GERMAN",
-    "room": "R_7"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "C1",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_5"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "C1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_12"
+    "room": "R_3"
   },
   {
     "day": "THURSDAY",
-    "hour": "H8_00_8_45",
+    "hour": "H12_45_13_30",
+    "group": "C1",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_2"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "C1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_17"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
+    "group": "C1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_16"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
     "group": "C1",
     "teacher": "RC",
     "subject": "POLISH",
     "room": "R_15"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "C1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_5"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
     "group": "C1",
     "teacher": "RC",
     "subject": "POLISH",
     "room": "R_22"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
     "group": "C1",
     "teacher": "MD",
     "subject": "HISTORY",
-    "room": "R_4"
+    "room": "R_16"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "C1",
+    "teacher": "MD",
+    "subject": "HISTORY",
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "C1",
+    "teacher": "JM",
+    "subject": "WOS",
+    "room": "R_15"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
+    "group": "C1",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "C1",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "C1",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF2"
   },
   {
     "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "C1",
-    "teacher": "MD",
-    "subject": "HISTORY",
-    "room": "R_8"
+    "hour": "H11_50_12_35",
+    "group": "D1",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_4"
   },
   {
     "day": "TUESDAY",
     "hour": "H13_40_14_25",
-    "group": "C1",
-    "teacher": "JM",
-    "subject": "WOS",
-    "room": "R_5"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "C1",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "C1",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "C1",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
     "group": "D1",
     "teacher": "EK",
     "subject": "CHEMISTRY",
     "room": "R_12"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
+    "day": "FRIDAY",
+    "hour": "H13_40_14_25",
     "group": "D1",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
+    "teacher": "MM",
+    "subject": "GEOGRAPHY",
     "room": "R_17"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "D1",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_11"
   },
   {
     "day": "WEDNESDAY",
     "hour": "H10_55_11_40",
-    "group": "D1",
-    "teacher": "MM",
-    "subject": "GEOGRAPHY",
-    "room": "R_7"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
-    "group": "D1",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_20"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "D1",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
     "group": "D1",
     "teacher": "RS",
     "subject": "BIOLOGY",
@@ -697,67 +689,83 @@
   },
   {
     "day": "FRIDAY",
-    "hour": "H9_50_10_35",
+    "hour": "H12_45_13_30",
+    "group": "D1",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_3"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
     "group": "D1",
     "teacher": "WJ",
     "subject": "PHYSICS",
-    "room": "R_4"
+    "room": "R_10"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "D1",
-    "teacher": "MN",
-    "subject": "MATH",
-    "room": "R_19"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "D1",
-    "teacher": "MN",
-    "subject": "MATH",
-    "room": "R_9"
-  },
-  {
-    "day": "TUESDAY",
+    "day": "MONDAY",
     "hour": "H11_50_12_35",
     "group": "D1",
     "teacher": "MN",
     "subject": "MATH",
-    "room": "R_20"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "D1",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_16"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "D1",
-    "teacher": "MZ",
-    "subject": "ENGLISH",
     "room": "R_15"
   },
   {
-    "day": "THURSDAY",
+    "day": "TUESDAY",
     "hour": "H10_55_11_40",
     "group": "D1",
-    "teacher": "MZ",
-    "subject": "ENGLISH",
-    "room": "R_21"
+    "teacher": "MN",
+    "subject": "MATH",
+    "room": "R_12"
   },
   {
-    "day": "MONDAY",
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "D1",
+    "teacher": "MN",
+    "subject": "MATH",
+    "room": "R_24"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_00_8_45",
+    "group": "D1",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_26"
+  },
+  {
+    "day": "FRIDAY",
     "hour": "H11_50_12_35",
     "group": "D1",
     "teacher": "MZ",
     "subject": "ENGLISH",
-    "room": "R_19"
+    "room": "R_26"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "D1",
+    "teacher": "MZ",
+    "subject": "ENGLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "D1",
+    "teacher": "MZ",
+    "subject": "ENGLISH",
+    "room": "R_6"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "D1",
+    "teacher": "IC",
+    "subject": "GERMAN",
+    "room": "R_10"
   },
   {
     "day": "MONDAY",
@@ -768,79 +776,63 @@
     "room": "R_10"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
     "group": "D1",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_26"
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_4"
   },
   {
-    "day": "MONDAY",
+    "day": "TUESDAY",
     "hour": "H12_45_13_30",
     "group": "D1",
     "teacher": "RC",
     "subject": "POLISH",
-    "room": "R_2"
+    "room": "R_20"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H14_35_15_20",
+    "group": "D1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H14_35_15_20",
+    "group": "D1",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_6"
   },
   {
     "day": "FRIDAY",
     "hour": "H10_55_11_40",
     "group": "D1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_8"
+    "teacher": "JM",
+    "subject": "HISTORY",
+    "room": "R_7"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "D1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_1"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "D1",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_26"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
     "group": "D1",
     "teacher": "JM",
     "subject": "HISTORY",
-    "room": "R_17"
+    "room": "R_21"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "D1",
-    "teacher": "JM",
-    "subject": "HISTORY",
-    "room": "R_1"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H11_50_12_35",
+    "day": "TUESDAY",
+    "hour": "H8_00_8_45",
     "group": "D1",
     "teacher": "JM",
     "subject": "WOS",
-    "room": "R_17"
+    "room": "R_19"
   },
   {
-    "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "D1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "MONDAY",
+    "day": "THURSDAY",
     "hour": "H8_55_9_40",
     "group": "D1",
     "teacher": "PS",
@@ -848,28 +840,36 @@
     "room": "R_WF1"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H8_00_8_45",
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
     "group": "D1",
     "teacher": "PS",
     "subject": "WF",
-    "room": "R_WF3"
+    "room": "R_WF2"
   },
   {
-    "day": "WEDNESDAY",
+    "day": "THURSDAY",
     "hour": "H9_50_10_35",
+    "group": "D1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
     "group": "E1",
     "teacher": "AF",
     "subject": "CHEMISTRY",
-    "room": "R_12"
+    "room": "R_6"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
     "group": "E1",
     "teacher": "MM",
     "subject": "GEOGRAPHY",
-    "room": "R_24"
+    "room": "R_9"
   },
   {
     "day": "THURSDAY",
@@ -877,146 +877,162 @@
     "group": "E1",
     "teacher": "RS",
     "subject": "BIOLOGY",
-    "room": "R_16"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "E1",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_8"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "E1",
-    "teacher": "HM",
-    "subject": "MATH",
-    "room": "R_1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
-    "group": "E1",
-    "teacher": "HM",
-    "subject": "MATH",
-    "room": "R_10"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "E1",
-    "teacher": "HM",
-    "subject": "MATH",
     "room": "R_5"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
+    "group": "E1",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_15"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
     "group": "E1",
     "teacher": "HM",
     "subject": "MATH",
-    "room": "R_12"
+    "room": "R_19"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
     "group": "E1",
     "teacher": "HM",
     "subject": "MATH",
     "room": "R_15"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "E1",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_1"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "E1",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_11"
-  },
-  {
-    "day": "FRIDAY",
+    "day": "WEDNESDAY",
     "hour": "H11_50_12_35",
     "group": "E1",
-    "teacher": "MZ",
-    "subject": "ENGLISH",
-    "room": "R_21"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
-    "group": "E1",
-    "teacher": "LZ",
-    "subject": "GERMAN",
+    "teacher": "HM",
+    "subject": "MATH",
     "room": "R_22"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
+    "day": "WEDNESDAY",
+    "hour": "H14_35_15_20",
     "group": "E1",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_20"
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_18"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "E1",
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_12"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "E1",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_2"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_00_8_45",
+    "group": "E1",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_19"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "E1",
+    "teacher": "MZ",
+    "subject": "ENGLISH",
+    "room": "R_7"
   },
   {
     "day": "WEDNESDAY",
     "hour": "H11_50_12_35",
     "group": "E1",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_21"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "E1",
     "teacher": "SP",
     "subject": "POLISH",
-    "room": "R_11"
+    "room": "R_18"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "E1",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "E1",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_24"
   },
   {
     "day": "THURSDAY",
-    "hour": "H8_00_8_45",
+    "hour": "H11_50_12_35",
     "group": "E1",
     "teacher": "SP",
     "subject": "POLISH",
     "room": "R_5"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
     "group": "E1",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_14"
+    "teacher": "SA",
+    "subject": "HISTORY",
+    "room": "R_4"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
     "group": "E1",
     "teacher": "SA",
     "subject": "HISTORY",
     "room": "R_24"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "E1",
-    "teacher": "SA",
-    "subject": "HISTORY",
-    "room": "R_25"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
     "group": "E1",
     "teacher": "JM",
     "subject": "WOS",
-    "room": "R_23"
+    "room": "R_21"
   },
   {
-    "day": "TUESDAY",
+    "day": "WEDNESDAY",
+    "hour": "H8_00_8_45",
+    "group": "E1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "E1",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "THURSDAY",
     "hour": "H13_40_14_25",
     "group": "E1",
     "teacher": "PS",
@@ -1024,164 +1040,156 @@
     "room": "R_WF3"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "E1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "E1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
     "group": "F1",
     "teacher": "EK",
     "subject": "CHEMISTRY",
-    "room": "R_23"
+    "room": "R_7"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "F1",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_21"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "F1",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_22"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "F1",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_8"
   },
   {
     "day": "MONDAY",
-    "hour": "H10_55_11_40",
+    "hour": "H12_45_13_30",
     "group": "F1",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_24"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "F1",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_15"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "F1",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_25"
+    "teacher": "MM",
+    "subject": "BIOLOGY",
+    "room": "R_6"
   },
   {
     "day": "WEDNESDAY",
     "hour": "H9_50_10_35",
     "group": "F1",
-    "teacher": "MM",
-    "subject": "BIOLOGY",
-    "room": "R_13"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "F1",
     "teacher": "WJ",
     "subject": "PHYSICS",
-    "room": "R_9"
+    "room": "R_14"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
     "group": "F1",
     "teacher": "HM",
     "subject": "MATH",
     "room": "R_18"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "F1",
-    "teacher": "HM",
-    "subject": "MATH",
-    "room": "R_7"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "F1",
-    "teacher": "HM",
-    "subject": "MATH",
-    "room": "R_24"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "F1",
-    "teacher": "HM",
-    "subject": "MATH",
-    "room": "R_24"
-  },
-  {
     "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
+    "hour": "H8_00_8_45",
+    "group": "F1",
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_11"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "F1",
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_23"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "F1",
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_14"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
     "group": "F1",
     "teacher": "PD",
     "subject": "INFORMATICS",
-    "room": "R_1"
+    "room": "R_24"
   },
   {
-    "day": "THURSDAY",
+    "day": "MONDAY",
     "hour": "H9_50_10_35",
     "group": "F1",
     "teacher": "AK",
     "subject": "ENGLISH",
-    "room": "R_9"
+    "room": "R_8"
   },
   {
-    "day": "FRIDAY",
+    "day": "TUESDAY",
     "hour": "H14_35_15_20",
     "group": "F1",
     "teacher": "AK",
     "subject": "ENGLISH",
-    "room": "R_4"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
-    "group": "F1",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_13"
+    "room": "R_16"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
+    "hour": "H10_55_11_40",
     "group": "F1",
     "teacher": "AK",
     "subject": "ENGLISH",
-    "room": "R_19"
+    "room": "R_15"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "F1",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_26"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
     "group": "F1",
     "teacher": "IC",
     "subject": "GERMAN",
     "room": "R_7"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
     "group": "F1",
     "teacher": "IC",
     "subject": "GERMAN",
-    "room": "R_5"
+    "room": "R_10"
   },
   {
-    "day": "MONDAY",
+    "day": "TUESDAY",
     "hour": "H9_50_10_35",
     "group": "F1",
     "teacher": "KW",
     "subject": "POLISH",
-    "room": "R_22"
+    "room": "R_24"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "F1",
+    "teacher": "KW",
+    "subject": "POLISH",
+    "room": "R_26"
   },
   {
     "day": "WEDNESDAY",
@@ -1189,963 +1197,963 @@
     "group": "F1",
     "teacher": "KW",
     "subject": "POLISH",
+    "room": "R_15"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "F1",
+    "teacher": "KW",
+    "subject": "POLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "F1",
+    "teacher": "AJ",
+    "subject": "HISTORY",
     "room": "R_20"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "F1",
-    "teacher": "KW",
-    "subject": "POLISH",
-    "room": "R_13"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "F1",
-    "teacher": "KW",
-    "subject": "POLISH",
-    "room": "R_16"
-  },
-  {
-    "day": "THURSDAY",
+    "day": "TUESDAY",
     "hour": "H10_55_11_40",
     "group": "F1",
     "teacher": "AJ",
     "subject": "HISTORY",
-    "room": "R_1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "F1",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_8"
+    "room": "R_20"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H8_00_8_45",
+    "hour": "H12_45_13_30",
     "group": "F1",
     "teacher": "JM",
     "subject": "WOS",
-    "room": "R_17"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "F1",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "F1",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF3"
+    "room": "R_20"
   },
   {
     "day": "THURSDAY",
-    "hour": "H12_45_13_30",
+    "hour": "H13_40_14_25",
     "group": "F1",
     "teacher": "TJ",
     "subject": "WF",
     "room": "R_WF1"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "G1",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_1"
-  },
-  {
     "day": "FRIDAY",
     "hour": "H12_45_13_30",
-    "group": "G1",
-    "teacher": "MM",
-    "subject": "GEOGRAPHY",
-    "room": "R_13"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "G1",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_12"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "G1",
-    "teacher": "EK",
-    "subject": "PHYSICS",
-    "room": "R_10"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "G1",
-    "teacher": "MN",
-    "subject": "MATH",
-    "room": "R_5"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
-    "group": "G1",
-    "teacher": "MN",
-    "subject": "MATH",
-    "room": "R_24"
+    "group": "F1",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF2"
   },
   {
     "day": "THURSDAY",
     "hour": "H9_50_10_35",
+    "group": "F1",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "G1",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_22"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "G1",
+    "teacher": "MM",
+    "subject": "GEOGRAPHY",
+    "room": "R_9"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_00_8_45",
+    "group": "G1",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_10"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "G1",
+    "teacher": "EK",
+    "subject": "PHYSICS",
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
     "group": "G1",
     "teacher": "MN",
     "subject": "MATH",
+    "room": "R_6"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_00_8_45",
+    "group": "G1",
+    "teacher": "MN",
+    "subject": "MATH",
+    "room": "R_7"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "G1",
+    "teacher": "MN",
+    "subject": "MATH",
+    "room": "R_25"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "G1",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
     "room": "R_21"
   },
   {
     "day": "FRIDAY",
     "hour": "H10_55_11_40",
     "group": "G1",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_15"
+    "teacher": "AS",
+    "subject": "ENGLISH",
+    "room": "R_1"
   },
   {
     "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "G1",
+    "teacher": "AS",
+    "subject": "ENGLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "WEDNESDAY",
     "hour": "H10_55_11_40",
     "group": "G1",
     "teacher": "AS",
     "subject": "ENGLISH",
-    "room": "R_6"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "G1",
-    "teacher": "AS",
-    "subject": "ENGLISH",
-    "room": "R_24"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
-    "group": "G1",
-    "teacher": "AS",
-    "subject": "ENGLISH",
-    "room": "R_26"
+    "room": "R_7"
   },
   {
     "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "G1",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_8"
-  },
-  {
-    "day": "THURSDAY",
     "hour": "H8_55_9_40",
     "group": "G1",
     "teacher": "LZ",
     "subject": "GERMAN",
-    "room": "R_10"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "G1",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_8"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "G1",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_25"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "G1",
-    "teacher": "SP",
-    "subject": "POLISH",
     "room": "R_2"
   },
   {
-    "day": "FRIDAY",
+    "day": "THURSDAY",
     "hour": "H14_35_15_20",
     "group": "G1",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_17"
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_15"
   },
   {
     "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "G1",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "G1",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "FRIDAY",
     "hour": "H12_45_13_30",
     "group": "G1",
     "teacher": "SP",
     "subject": "POLISH",
-    "room": "R_16"
+    "room": "R_7"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "G1",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_9"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
+    "hour": "H9_50_10_35",
+    "group": "G1",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
     "group": "G1",
     "teacher": "BW",
     "subject": "HISTORY",
-    "room": "R_5"
+    "room": "R_14"
   },
   {
     "day": "MONDAY",
-    "hour": "H8_55_9_40",
+    "hour": "H12_45_13_30",
     "group": "G1",
     "teacher": "BW",
     "subject": "HISTORY",
-    "room": "R_5"
+    "room": "R_11"
   },
   {
-    "day": "MONDAY",
+    "day": "TUESDAY",
     "hour": "H11_50_12_35",
     "group": "G1",
     "teacher": "JM",
     "subject": "WOS",
-    "room": "R_14"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "G1",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
+    "room": "R_18"
   },
   {
     "day": "FRIDAY",
-    "hour": "H11_50_12_35",
+    "hour": "H8_00_8_45",
     "group": "G1",
     "teacher": "PS",
     "subject": "WF",
     "room": "R_WF2"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
     "group": "G1",
     "teacher": "PS",
     "subject": "WF",
     "room": "R_WF3"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "A2",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_7"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "A2",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_18"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "A2",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_17"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "A2",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_6"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "A2",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_18"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "A2",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_14"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "A2",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_12"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "A2",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_16"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
-    "group": "A2",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_10"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_00_8_45",
-    "group": "A2",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_6"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "A2",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_12"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
-    "group": "A2",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_20"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "A2",
-    "teacher": "KT",
-    "subject": "ENGLISH",
-    "room": "R_16"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "A2",
-    "teacher": "KT",
-    "subject": "ENGLISH",
-    "room": "R_15"
-  },
-  {
     "day": "WEDNESDAY",
     "hour": "H11_50_12_35",
-    "group": "A2",
-    "teacher": "KT",
-    "subject": "ENGLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "A2",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_25"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "A2",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_3"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "A2",
-    "teacher": "JK",
-    "subject": "POLISH",
-    "room": "R_5"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "A2",
-    "teacher": "JK",
-    "subject": "POLISH",
-    "room": "R_18"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "A2",
-    "teacher": "JK",
-    "subject": "POLISH",
-    "room": "R_7"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "A2",
-    "teacher": "JK",
-    "subject": "POLISH",
-    "room": "R_19"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "A2",
+    "group": "G1",
     "teacher": "PS",
     "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "A2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
-    "group": "A2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "B2",
-    "teacher": "MH",
-    "subject": "MATH",
-    "room": "R_16"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "B2",
-    "teacher": "MH",
-    "subject": "MATH",
-    "room": "R_18"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "B2",
-    "teacher": "MH",
-    "subject": "MATH",
-    "room": "R_14"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "B2",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_17"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "B2",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_6"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "B2",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_9"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "B2",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_26"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "B2",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_20"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_55_9_40",
-    "group": "B2",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_23"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "B2",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_1"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H11_50_12_35",
-    "group": "B2",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_19"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "B2",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_3"
+    "room": "R_WF3"
   },
   {
     "day": "FRIDAY",
     "hour": "H11_50_12_35",
-    "group": "B2",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "B2",
-    "teacher": "MD",
-    "subject": "POLISH",
+    "group": "A2",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
     "room": "R_2"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "B2",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_26"
-  },
-  {
     "day": "MONDAY",
     "hour": "H13_40_14_25",
-    "group": "B2",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_14"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "B2",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_22"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "B2",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_8"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "B2",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_19"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "B2",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_12"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "B2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
-    "group": "B2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "B2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "C2",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_7"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "C2",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_25"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "C2",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_25"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H11_50_12_35",
-    "group": "C2",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_14"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
-    "group": "C2",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_19"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "C2",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_3"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "C2",
+    "group": "A2",
     "teacher": "WJ",
     "subject": "PHYSICS",
-    "room": "R_19"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "C2",
-    "teacher": "HM",
-    "subject": "MATH",
-    "room": "R_16"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "C2",
-    "teacher": "HM",
-    "subject": "MATH",
     "room": "R_9"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "C2",
-    "teacher": "HM",
-    "subject": "MATH",
-    "room": "R_10"
-  },
-  {
     "day": "TUESDAY",
     "hour": "H12_45_13_30",
-    "group": "C2",
-    "teacher": "KK",
-    "subject": "ENGLISH",
-    "room": "R_12"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
-    "group": "C2",
-    "teacher": "KK",
-    "subject": "ENGLISH",
-    "room": "R_24"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "C2",
-    "teacher": "KK",
-    "subject": "ENGLISH",
-    "room": "R_8"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "C2",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_5"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "C2",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_20"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "C2",
-    "teacher": "HK",
-    "subject": "POLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "C2",
-    "teacher": "HK",
-    "subject": "POLISH",
-    "room": "R_13"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "C2",
-    "teacher": "HK",
-    "subject": "POLISH",
-    "room": "R_26"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "C2",
-    "teacher": "HK",
-    "subject": "POLISH",
-    "room": "R_5"
+    "group": "A2",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_22"
   },
   {
     "day": "THURSDAY",
     "hour": "H8_00_8_45",
-    "group": "C2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "C2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "C2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "D2",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
-    "room": "R_25"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "D2",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
-    "room": "R_11"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "D2",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
-    "room": "R_12"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "D2",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
-    "room": "R_22"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "D2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_17"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "D2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_20"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "D2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
+    "group": "A2",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
     "room": "R_26"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "D2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "A2",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
     "room": "R_11"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "D2",
-    "teacher": "MH",
+    "day": "THURSDAY",
+    "hour": "H8_00_8_45",
+    "group": "A2",
+    "teacher": "EL",
     "subject": "MATH",
-    "room": "R_9"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "D2",
-    "teacher": "MH",
-    "subject": "MATH",
-    "room": "R_24"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "D2",
-    "teacher": "MH",
-    "subject": "MATH",
-    "room": "R_16"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
-    "group": "D2",
-    "teacher": "KK",
-    "subject": "ENGLISH",
-    "room": "R_5"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "D2",
-    "teacher": "KK",
-    "subject": "ENGLISH",
-    "room": "R_3"
+    "room": "R_12"
   },
   {
     "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "D2",
-    "teacher": "KK",
-    "subject": "ENGLISH",
-    "room": "R_3"
+    "hour": "H12_45_13_30",
+    "group": "A2",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_19"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "A2",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_7"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H11_50_12_35",
-    "group": "D2",
-    "teacher": "IC",
-    "subject": "GERMAN",
+    "hour": "H12_45_13_30",
+    "group": "A2",
+    "teacher": "EL",
+    "subject": "MATH",
     "room": "R_4"
   },
   {
-    "day": "FRIDAY",
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "A2",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_21"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A2",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_19"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "A2",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_2"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "A2",
+    "teacher": "KT",
+    "subject": "ENGLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "A2",
+    "teacher": "KT",
+    "subject": "ENGLISH",
+    "room": "R_25"
+  },
+  {
+    "day": "TUESDAY",
     "hour": "H13_40_14_25",
-    "group": "D2",
+    "group": "A2",
+    "teacher": "KT",
+    "subject": "ENGLISH",
+    "room": "R_23"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "A2",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_18"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "A2",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_1"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A2",
+    "teacher": "JK",
+    "subject": "POLISH",
+    "room": "R_11"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
+    "group": "A2",
+    "teacher": "JK",
+    "subject": "POLISH",
+    "room": "R_16"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
+    "group": "A2",
+    "teacher": "JK",
+    "subject": "POLISH",
+    "room": "R_3"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "A2",
+    "teacher": "JK",
+    "subject": "POLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "A2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "B2",
+    "teacher": "MH",
+    "subject": "MATH",
+    "room": "R_4"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "B2",
+    "teacher": "MH",
+    "subject": "MATH",
+    "room": "R_18"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "B2",
+    "teacher": "MH",
+    "subject": "MATH",
+    "room": "R_2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "B2",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_6"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "B2",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "B2",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_11"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "B2",
     "teacher": "IC",
     "subject": "GERMAN",
+    "room": "R_11"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
+    "group": "B2",
+    "teacher": "IC",
+    "subject": "GERMAN",
+    "room": "R_24"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "B2",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_16"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "B2",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_23"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "B2",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_24"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "B2",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_17"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "B2",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_15"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H14_35_15_20",
+    "group": "B2",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_4"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
+    "group": "B2",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_20"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
+    "group": "B2",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_12"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "B2",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_13"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "B2",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_12"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "B2",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_19"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "B2",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_22"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "B2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "B2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
+    "group": "B2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "C2",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_13"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
+    "group": "C2",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_17"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "C2",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_18"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "C2",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_15"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "C2",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_12"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H14_35_15_20",
+    "group": "C2",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_14"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "C2",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_8"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "C2",
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_24"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "C2",
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_15"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "C2",
+    "teacher": "HM",
+    "subject": "MATH",
+    "room": "R_13"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
+    "group": "C2",
+    "teacher": "KK",
+    "subject": "ENGLISH",
     "room": "R_2"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "C2",
+    "teacher": "KK",
+    "subject": "ENGLISH",
+    "room": "R_24"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "C2",
+    "teacher": "KK",
+    "subject": "ENGLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H14_35_15_20",
+    "group": "C2",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_1"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "C2",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_1"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "C2",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_3"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "C2",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_16"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "C2",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_15"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "C2",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_10"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "C2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "C2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "C2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "D2",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_4"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "D2",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_1"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "D2",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_22"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_00_8_45",
+    "group": "D2",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_3"
   },
   {
     "day": "THURSDAY",
     "hour": "H12_45_13_30",
     "group": "D2",
-    "teacher": "JK",
-    "subject": "POLISH",
-    "room": "R_8"
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_9"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "D2",
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_23"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "D2",
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_15"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "D2",
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_21"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "D2",
+    "teacher": "MH",
+    "subject": "MATH",
+    "room": "R_14"
   },
   {
     "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "D2",
+    "teacher": "MH",
+    "subject": "MATH",
+    "room": "R_11"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
+    "group": "D2",
+    "teacher": "MH",
+    "subject": "MATH",
+    "room": "R_15"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "D2",
+    "teacher": "KK",
+    "subject": "ENGLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "D2",
+    "teacher": "KK",
+    "subject": "ENGLISH",
+    "room": "R_2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "D2",
+    "teacher": "KK",
+    "subject": "ENGLISH",
+    "room": "R_20"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "D2",
+    "teacher": "IC",
+    "subject": "GERMAN",
+    "room": "R_1"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
+    "group": "D2",
+    "teacher": "IC",
+    "subject": "GERMAN",
+    "room": "R_19"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "D2",
+    "teacher": "JK",
+    "subject": "POLISH",
+    "room": "R_18"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "D2",
+    "teacher": "JK",
+    "subject": "POLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "MONDAY",
     "hour": "H12_45_13_30",
     "group": "D2",
     "teacher": "JK",
     "subject": "POLISH",
-    "room": "R_24"
+    "room": "R_9"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
+    "day": "MONDAY",
+    "hour": "H14_35_15_20",
     "group": "D2",
     "teacher": "JK",
     "subject": "POLISH",
@@ -2153,23 +2161,23 @@
   },
   {
     "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "D2",
-    "teacher": "JK",
-    "subject": "POLISH",
-    "room": "R_17"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
+    "hour": "H12_45_13_30",
     "group": "D2",
     "teacher": "PS",
     "subject": "WF",
     "room": "R_WF3"
   },
   {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "D2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
     "group": "D2",
     "teacher": "PS",
     "subject": "WF",
@@ -2177,27 +2185,27 @@
   },
   {
     "day": "TUESDAY",
-    "hour": "H8_00_8_45",
-    "group": "D2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF3"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
+    "hour": "H11_50_12_35",
     "group": "E2",
     "teacher": "JW",
     "subject": "GEOGRAPHY",
-    "room": "R_21"
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "E2",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_4"
   },
   {
     "day": "MONDAY",
-    "hour": "H14_35_15_20",
+    "hour": "H9_50_10_35",
     "group": "E2",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_2"
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_3"
   },
   {
     "day": "TUESDAY",
@@ -2205,67 +2213,51 @@
     "group": "E2",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_24"
+    "room": "R_18"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
-    "group": "E2",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_6"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "E2",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_24"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_55_9_40",
-    "group": "E2",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_26"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
     "group": "E2",
     "teacher": "AL",
     "subject": "MATH",
     "room": "R_8"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H8_00_8_45",
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "E2",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_19"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "E2",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_6"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
+    "group": "E2",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_21"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
     "group": "E2",
     "teacher": "BD",
     "subject": "INFORMATICS",
     "room": "R_18"
   },
   {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "E2",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_20"
-  },
-  {
-    "day": "TUESDAY",
+    "day": "WEDNESDAY",
     "hour": "H10_55_11_40",
-    "group": "E2",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_5"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
     "group": "E2",
     "teacher": "BD",
     "subject": "INFORMATICS",
@@ -2273,15 +2265,39 @@
   },
   {
     "day": "TUESDAY",
-    "hour": "H8_00_8_45",
+    "hour": "H12_45_13_30",
     "group": "E2",
     "teacher": "BD",
     "subject": "INFORMATICS",
-    "room": "R_17"
+    "room": "R_1"
   },
   {
-    "day": "THURSDAY",
+    "day": "TUESDAY",
+    "hour": "H14_35_15_20",
+    "group": "E2",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_13"
+  },
+  {
+    "day": "MONDAY",
     "hour": "H11_50_12_35",
+    "group": "E2",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "E2",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_15"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
     "group": "E2",
     "teacher": "AP",
     "subject": "ENGLISH",
@@ -2289,79 +2305,79 @@
   },
   {
     "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "E2",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_1"
-  },
-  {
-    "day": "WEDNESDAY",
     "hour": "H10_55_11_40",
     "group": "E2",
     "teacher": "AP",
     "subject": "ENGLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "E2",
+    "teacher": "IC",
+    "subject": "GERMAN",
     "room": "R_1"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
-    "group": "E2",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_13"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
     "group": "E2",
     "teacher": "IC",
     "subject": "GERMAN",
     "room": "R_22"
   },
   {
-    "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "E2",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_9"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "E2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_2"
-  },
-  {
     "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "E2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_16"
-  },
-  {
-    "day": "THURSDAY",
     "hour": "H8_55_9_40",
     "group": "E2",
     "teacher": "RC",
     "subject": "POLISH",
-    "room": "R_6"
+    "room": "R_15"
   },
   {
     "day": "TUESDAY",
-    "hour": "H14_35_15_20",
+    "hour": "H8_00_8_45",
     "group": "E2",
     "teacher": "RC",
     "subject": "POLISH",
-    "room": "R_3"
+    "room": "R_7"
   },
   {
-    "day": "THURSDAY",
+    "day": "TUESDAY",
     "hour": "H12_45_13_30",
+    "group": "E2",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_19"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "E2",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "E2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "E2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
     "group": "E2",
     "teacher": "PS",
     "subject": "WF",
@@ -2369,131 +2385,123 @@
   },
   {
     "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "E2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "E2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF3"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
+    "hour": "H8_55_9_40",
     "group": "F2",
     "teacher": "JW",
     "subject": "GEOGRAPHY",
-    "room": "R_6"
+    "room": "R_13"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "F2",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_21"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
+    "group": "F2",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_8"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
     "group": "F2",
     "teacher": "JW",
     "subject": "GEOGRAPHY",
     "room": "R_10"
   },
   {
-    "day": "FRIDAY",
+    "day": "THURSDAY",
     "hour": "H10_55_11_40",
-    "group": "F2",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_18"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "F2",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_1"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
     "group": "F2",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_18"
+    "room": "R_26"
   },
   {
-    "day": "WEDNESDAY",
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "F2",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_24"
+  },
+  {
+    "day": "THURSDAY",
     "hour": "H11_50_12_35",
     "group": "F2",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_15"
+    "room": "R_2"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "F2",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_11"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "F2",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_6"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
+    "hour": "H10_55_11_40",
     "group": "F2",
     "teacher": "AL",
     "subject": "MATH",
     "room": "R_14"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
     "group": "F2",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_3"
+    "room": "R_8"
   },
   {
     "day": "TUESDAY",
-    "hour": "H9_50_10_35",
+    "hour": "H13_40_14_25",
     "group": "F2",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_19"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "F2",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_13"
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_14"
   },
   {
     "day": "FRIDAY",
+    "hour": "H13_40_14_25",
+    "group": "F2",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_26"
+  },
+  {
+    "day": "TUESDAY",
     "hour": "H12_45_13_30",
     "group": "F2",
     "teacher": "AK",
     "subject": "ENGLISH",
-    "room": "R_6"
+    "room": "R_3"
   },
   {
-    "day": "MONDAY",
+    "day": "FRIDAY",
     "hour": "H10_55_11_40",
     "group": "F2",
     "teacher": "AK",
     "subject": "ENGLISH",
-    "room": "R_12"
+    "room": "R_23"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
+    "group": "F2",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "F2",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_19"
   },
   {
     "day": "TUESDAY",
@@ -2501,1051 +2509,1059 @@
     "group": "F2",
     "teacher": "LZ",
     "subject": "GERMAN",
-    "room": "R_3"
+    "room": "R_6"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
     "group": "F2",
-    "teacher": "LZ",
-    "subject": "GERMAN",
+    "teacher": "RC",
+    "subject": "POLISH",
     "room": "R_18"
   },
   {
     "day": "TUESDAY",
-    "hour": "H10_55_11_40",
+    "hour": "H8_55_9_40",
     "group": "F2",
     "teacher": "RC",
     "subject": "POLISH",
     "room": "R_21"
   },
   {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
+    "day": "FRIDAY",
+    "hour": "H8_00_8_45",
     "group": "F2",
     "teacher": "RC",
     "subject": "POLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "F2",
+    "teacher": "AJ",
+    "subject": "HISTORY",
     "room": "R_12"
   },
   {
     "day": "THURSDAY",
-    "hour": "H10_55_11_40",
+    "hour": "H8_55_9_40",
     "group": "F2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_3"
+    "teacher": "MO",
+    "subject": "WF",
+    "room": "R_WF2"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "F2",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_17"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
     "group": "F2",
     "teacher": "MO",
     "subject": "WF",
     "room": "R_WF3"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "F2",
-    "teacher": "MO",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
     "group": "F2",
     "teacher": "MO",
     "subject": "WF",
     "room": "R_WF3"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "G2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_17"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "G2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_4"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "G2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_7"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
-    "group": "G2",
-    "teacher": "PA",
-    "subject": "BIOLOGY",
-    "room": "R_1"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_00_8_45",
-    "group": "G2",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_14"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "G2",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_23"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "G2",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_17"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "G2",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_14"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "G2",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_5"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "G2",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_25"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "G2",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_7"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "G2",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_12"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "G2",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_2"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "G2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_4"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "G2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_16"
-  },
-  {
     "day": "MONDAY",
     "hour": "H9_50_10_35",
     "group": "G2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_2"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "G2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_1"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "G2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_1"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "G2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_4"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_55_9_40",
-    "group": "G2",
-    "teacher": "RC",
-    "subject": "POLISH",
-    "room": "R_21"
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_22"
   },
   {
     "day": "TUESDAY",
     "hour": "H8_55_9_40",
     "group": "G2",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_7"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "G2",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_18"
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_9"
   },
   {
     "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "G2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "G2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "G2",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "FRIDAY",
     "hour": "H12_45_13_30",
-    "group": "A3",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_21"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "A3",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
+    "group": "G2",
+    "teacher": "PA",
+    "subject": "BIOLOGY",
     "room": "R_8"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "A3",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "G2",
+    "teacher": "PA",
+    "subject": "BIOLOGY",
+    "room": "R_3"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
+    "group": "G2",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_5"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "G2",
+    "teacher": "LB",
+    "subject": "MATH",
     "room": "R_25"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "A3",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
-    "room": "R_21"
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "G2",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_20"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "A3",
-    "teacher": "WJ",
-    "subject": "PHYSICS",
+    "day": "MONDAY",
+    "hour": "H8_00_8_45",
+    "group": "G2",
+    "teacher": "AP",
+    "subject": "ENGLISH",
     "room": "R_12"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_10"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_13"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_23"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_11"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_21"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_17"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_19"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_8"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "A3",
-    "teacher": "EL",
-    "subject": "MATH",
-    "room": "R_22"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "A3",
-    "teacher": "JR",
-    "subject": "ENGLISH",
-    "room": "R_24"
-  },
-  {
     "day": "WEDNESDAY",
-    "hour": "H11_50_12_35",
-    "group": "A3",
-    "teacher": "JR",
+    "hour": "H14_35_15_20",
+    "group": "G2",
+    "teacher": "AP",
     "subject": "ENGLISH",
     "room": "R_5"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "A3",
-    "teacher": "JR",
+    "day": "TUESDAY",
+    "hour": "H8_00_8_45",
+    "group": "G2",
+    "teacher": "AP",
     "subject": "ENGLISH",
-    "room": "R_12"
+    "room": "R_11"
   },
   {
     "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "A3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_24"
+    "hour": "H12_45_13_30",
+    "group": "G2",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_22"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
-    "group": "A3",
-    "teacher": "LZ",
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "G2",
+    "teacher": "IC",
     "subject": "GERMAN",
+    "room": "R_15"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
+    "group": "G2",
+    "teacher": "IC",
+    "subject": "GERMAN",
+    "room": "R_5"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
+    "group": "G2",
+    "teacher": "RC",
+    "subject": "POLISH",
     "room": "R_2"
   },
   {
     "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "A3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_4"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "A3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_11"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
-    "group": "A3",
-    "teacher": "MD",
+    "hour": "H8_55_9_40",
+    "group": "G2",
+    "teacher": "RC",
     "subject": "POLISH",
     "room": "R_16"
   },
   {
-    "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "A3",
-    "teacher": "MD",
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
+    "group": "G2",
+    "teacher": "RC",
     "subject": "POLISH",
-    "room": "R_6"
+    "room": "R_9"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H8_00_8_45",
-    "group": "A3",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_12"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "A3",
-    "teacher": "BW",
-    "subject": "HISTORY",
+    "hour": "H11_50_12_35",
+    "group": "G2",
+    "teacher": "RC",
+    "subject": "POLISH",
     "room": "R_20"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "A3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF3"
+    "hour": "H9_50_10_35",
+    "group": "G2",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_21"
   },
   {
     "day": "FRIDAY",
     "hour": "H10_55_11_40",
-    "group": "A3",
-    "teacher": "TJ",
+    "group": "G2",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_24"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "G2",
+    "teacher": "RC",
+    "subject": "POLISH",
+    "room": "R_18"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
+    "group": "G2",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_1"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "G2",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_2"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "G2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "G2",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "G2",
+    "teacher": "PS",
     "subject": "WF",
     "room": "R_WF1"
   },
   {
-    "day": "MONDAY",
-    "hour": "H8_55_9_40",
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
     "group": "A3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "B3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_5"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
-    "group": "B3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_6"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
-    "group": "B3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_9"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "B3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_19"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "B3",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "B3",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_23"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "B3",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_16"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_00_8_45",
-    "group": "B3",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_18"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "B3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_14"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "B3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_11"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "B3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_15"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "B3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_4"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
-    "group": "B3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_11"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "B3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_19"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "B3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_19"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "B3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_23"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "B3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_9"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "B3",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_13"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "B3",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_7"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "B3",
-    "teacher": "BW",
-    "subject": "HISTORY",
-    "room": "R_17"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "B3",
-    "teacher": "BW",
-    "subject": "HISTORY",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
     "room": "R_2"
   },
   {
     "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "B3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF3"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "B3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF3"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "B3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "C3",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_6"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "C3",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_22"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
-    "group": "C3",
-    "teacher": "AF",
-    "subject": "CHEMISTRY",
-    "room": "R_13"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "C3",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_4"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "C3",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_26"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "C3",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_22"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H11_50_12_35",
-    "group": "C3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_11"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "C3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_20"
-  },
-  {
-    "day": "THURSDAY",
     "hour": "H8_00_8_45",
-    "group": "C3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_19"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "C3",
-    "teacher": "LB",
-    "subject": "MATH",
-    "room": "R_14"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "C3",
-    "teacher": "AP",
-    "subject": "ENGLISH",
+    "group": "A3",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
     "room": "R_5"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "C3",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_15"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "C3",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_26"
-  },
-  {
     "day": "WEDNESDAY",
-    "hour": "H9_50_10_35",
-    "group": "C3",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_17"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "C3",
-    "teacher": "IC",
-    "subject": "GERMAN",
-    "room": "R_17"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "C3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_20"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "C3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "C3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_5"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "C3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_13"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "C3",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_16"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "C3",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_14"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "C3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF3"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "C3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF3"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "C3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "D3",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
-    "room": "R_10"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_00_8_45",
-    "group": "D3",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
-    "room": "R_2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_55_9_40",
-    "group": "D3",
-    "teacher": "EK",
-    "subject": "CHEMISTRY",
-    "room": "R_15"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "D3",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_23"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H12_45_13_30",
-    "group": "D3",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_20"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H8_55_9_40",
-    "group": "D3",
-    "teacher": "RS",
-    "subject": "BIOLOGY",
-    "room": "R_11"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "D3",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "D3",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_9"
-  },
-  {
-    "day": "THURSDAY",
     "hour": "H11_50_12_35",
-    "group": "D3",
-    "teacher": "AK",
-    "subject": "ENGLISH",
-    "room": "R_9"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "D3",
-    "teacher": "JG",
-    "subject": "MATH",
-    "room": "R_6"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "D3",
-    "teacher": "JG",
-    "subject": "MATH",
-    "room": "R_22"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "D3",
-    "teacher": "JG",
-    "subject": "MATH",
-    "room": "R_18"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "D3",
-    "teacher": "JG",
-    "subject": "MATH",
+    "group": "A3",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
     "room": "R_25"
   },
   {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "A3",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_15"
+  },
+  {
     "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "D3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_14"
+    "hour": "H10_55_11_40",
+    "group": "A3",
+    "teacher": "WJ",
+    "subject": "PHYSICS",
+    "room": "R_16"
   },
   {
     "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "D3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
+    "hour": "H9_50_10_35",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
     "room": "R_4"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
-    "group": "D3",
-    "teacher": "HK",
-    "subject": "POLISH",
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_16"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_00_8_45",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
     "room": "R_3"
   },
   {
     "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_9"
+  },
+  {
+    "day": "MONDAY",
     "hour": "H11_50_12_35",
-    "group": "D3",
-    "teacher": "HK",
-    "subject": "POLISH",
-    "room": "R_3"
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_21"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_1"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_21"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_22"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "A3",
+    "teacher": "EL",
+    "subject": "MATH",
+    "room": "R_1"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "A3",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_10"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
+    "group": "A3",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
+    "group": "A3",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "A3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_12"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "A3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_25"
   },
   {
     "day": "FRIDAY",
     "hour": "H11_50_12_35",
-    "group": "D3",
-    "teacher": "HK",
+    "group": "A3",
+    "teacher": "MD",
     "subject": "POLISH",
+    "room": "R_15"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "A3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "A3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_6"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "A3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_1"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A3",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_23"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A3",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_24"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "A3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "A3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "A3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "B3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_23"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "B3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_11"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "B3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_7"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "B3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_14"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "B3",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_10"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "B3",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_2"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
+    "group": "B3",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_24"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "B3",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_20"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "B3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_1"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "B3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_25"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "B3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_13"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
+    "group": "B3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_15"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_00_8_45",
+    "group": "B3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_5"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "B3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_26"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H14_35_15_20",
+    "group": "B3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "B3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_19"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "B3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "B3",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_19"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "B3",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_1"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "B3",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_13"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "B3",
+    "teacher": "BW",
+    "subject": "HISTORY",
+    "room": "R_10"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "B3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
+    "group": "B3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "B3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "C3",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_23"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H13_40_14_25",
+    "group": "C3",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_5"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "C3",
+    "teacher": "AF",
+    "subject": "CHEMISTRY",
+    "room": "R_10"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
+    "group": "C3",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_21"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
+    "group": "C3",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_2"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "C3",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_20"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "C3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_3"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "C3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_26"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "C3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_26"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
+    "group": "C3",
+    "teacher": "LB",
+    "subject": "MATH",
+    "room": "R_11"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "C3",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_10"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
+    "group": "C3",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_2"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H14_35_15_20",
+    "group": "C3",
+    "teacher": "AP",
+    "subject": "ENGLISH",
     "room": "R_19"
   },
   {
     "day": "WEDNESDAY",
     "hour": "H9_50_10_35",
-    "group": "D3",
-    "teacher": "HK",
+    "group": "C3",
+    "teacher": "IC",
+    "subject": "GERMAN",
+    "room": "R_2"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "C3",
+    "teacher": "IC",
+    "subject": "GERMAN",
+    "room": "R_22"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "C3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_26"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "C3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_16"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "C3",
+    "teacher": "MD",
     "subject": "POLISH",
     "room": "R_7"
   },
   {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "D3",
-    "teacher": "SA",
-    "subject": "HISTORY",
-    "room": "R_26"
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "C3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_8"
   },
   {
     "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "C3",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_21"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "C3",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_17"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "C3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "C3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_00_8_45",
+    "group": "C3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "D3",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_16"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "D3",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_12"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
+    "group": "D3",
+    "teacher": "EK",
+    "subject": "CHEMISTRY",
+    "room": "R_6"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "D3",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_2"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
+    "group": "D3",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_19"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "D3",
+    "teacher": "RS",
+    "subject": "BIOLOGY",
+    "room": "R_15"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H9_50_10_35",
+    "group": "D3",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_11"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H12_45_13_30",
+    "group": "D3",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "D3",
+    "teacher": "AK",
+    "subject": "ENGLISH",
+    "room": "R_18"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H13_40_14_25",
+    "group": "D3",
+    "teacher": "JG",
+    "subject": "MATH",
+    "room": "R_9"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H12_45_13_30",
+    "group": "D3",
+    "teacher": "JG",
+    "subject": "MATH",
+    "room": "R_24"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "D3",
+    "teacher": "JG",
+    "subject": "MATH",
+    "room": "R_13"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "D3",
+    "teacher": "JG",
+    "subject": "MATH",
+    "room": "R_13"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "D3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_23"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "D3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_5"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "D3",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "D3",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H12_45_13_30",
+    "group": "D3",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_2"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "D3",
+    "teacher": "HK",
+    "subject": "POLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "TUESDAY",
     "hour": "H13_40_14_25",
     "group": "D3",
     "teacher": "SA",
     "subject": "HISTORY",
-    "room": "R_7"
+    "room": "R_19"
   },
   {
     "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "D3",
+    "teacher": "SA",
+    "subject": "HISTORY",
+    "room": "R_15"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "D3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF1"
+  },
+  {
+    "day": "WEDNESDAY",
     "hour": "H14_35_15_20",
+    "group": "D3",
+    "teacher": "TJ",
+    "subject": "WF",
+    "room": "R_WF2"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
     "group": "D3",
     "teacher": "TJ",
     "subject": "WF",
@@ -3553,27 +3569,27 @@
   },
   {
     "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "D3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF3"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "D3",
-    "teacher": "TJ",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
+    "hour": "H10_55_11_40",
     "group": "E3",
     "teacher": "JG",
     "subject": "MATH",
-    "room": "R_13"
+    "room": "R_15"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H13_40_14_25",
+    "group": "E3",
+    "teacher": "JG",
+    "subject": "MATH",
+    "room": "R_21"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "E3",
+    "teacher": "JG",
+    "subject": "MATH",
+    "room": "R_26"
   },
   {
     "day": "FRIDAY",
@@ -3581,34 +3597,18 @@
     "group": "E3",
     "teacher": "JG",
     "subject": "MATH",
-    "room": "R_18"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "E3",
-    "teacher": "JG",
-    "subject": "MATH",
-    "room": "R_4"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H14_35_15_20",
-    "group": "E3",
-    "teacher": "JG",
-    "subject": "MATH",
-    "room": "R_19"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
-    "group": "E3",
-    "teacher": "JG",
-    "subject": "MATH",
-    "room": "R_20"
+    "room": "R_11"
   },
   {
     "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "E3",
+    "teacher": "JG",
+    "subject": "MATH",
+    "room": "R_2"
+  },
+  {
+    "day": "THURSDAY",
     "hour": "H14_35_15_20",
     "group": "E3",
     "teacher": "JG",
@@ -3616,296 +3616,280 @@
     "room": "R_6"
   },
   {
-    "day": "MONDAY",
-    "hour": "H10_55_11_40",
-    "group": "E3",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_4"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
-    "group": "E3",
-    "teacher": "BD",
-    "subject": "INFORMATICS",
-    "room": "R_25"
-  },
-  {
     "day": "TUESDAY",
     "hour": "H8_00_8_45",
     "group": "E3",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_5"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "E3",
+    "teacher": "BD",
+    "subject": "INFORMATICS",
+    "room": "R_14"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "E3",
     "teacher": "JR",
     "subject": "ENGLISH",
-    "room": "R_16"
+    "room": "R_17"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H11_50_12_35",
+    "group": "E3",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H10_55_11_40",
+    "group": "E3",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_17"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "E3",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_1"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "E3",
+    "teacher": "JR",
+    "subject": "ENGLISH",
+    "room": "R_9"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
+    "group": "E3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_5"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H9_50_10_35",
+    "group": "E3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_24"
   },
   {
     "day": "THURSDAY",
     "hour": "H10_55_11_40",
     "group": "E3",
-    "teacher": "JR",
-    "subject": "ENGLISH",
-    "room": "R_11"
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_20"
   },
   {
     "day": "THURSDAY",
     "hour": "H11_50_12_35",
     "group": "E3",
-    "teacher": "JR",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_24"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_00_8_45",
+    "group": "E3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
+    "group": "E3",
+    "teacher": "SP",
+    "subject": "POLISH",
+    "room": "R_8"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "E3",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_21"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "E3",
+    "teacher": "AJ",
+    "subject": "HISTORY",
+    "room": "R_26"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H14_35_15_20",
+    "group": "E3",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
+    "group": "E3",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
+    "group": "E3",
+    "teacher": "PS",
+    "subject": "WF",
+    "room": "R_WF3"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "F3",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_10"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H10_55_11_40",
+    "group": "F3",
+    "teacher": "JW",
+    "subject": "GEOGRAPHY",
+    "room": "R_6"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "F3",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_9"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H9_50_10_35",
+    "group": "F3",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_26"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "F3",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_8"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H8_55_9_40",
+    "group": "F3",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_8"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H11_50_12_35",
+    "group": "F3",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_17"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
+    "group": "F3",
+    "teacher": "AL",
+    "subject": "MATH",
+    "room": "R_13"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H11_50_12_35",
+    "group": "F3",
+    "teacher": "AS",
+    "subject": "ENGLISH",
+    "room": "R_12"
+  },
+  {
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "F3",
+    "teacher": "AS",
+    "subject": "ENGLISH",
+    "room": "R_21"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H9_50_10_35",
+    "group": "F3",
+    "teacher": "AS",
+    "subject": "ENGLISH",
+    "room": "R_7"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H13_40_14_25",
+    "group": "F3",
+    "teacher": "AS",
+    "subject": "ENGLISH",
+    "room": "R_15"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
+    "group": "F3",
+    "teacher": "AS",
     "subject": "ENGLISH",
     "room": "R_23"
   },
   {
     "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "E3",
-    "teacher": "JR",
-    "subject": "ENGLISH",
-    "room": "R_20"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H8_55_9_40",
-    "group": "E3",
-    "teacher": "JR",
-    "subject": "ENGLISH",
-    "room": "R_20"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H10_55_11_40",
-    "group": "E3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_9"
-  },
-  {
-    "day": "FRIDAY",
     "hour": "H12_45_13_30",
-    "group": "E3",
+    "group": "F3",
     "teacher": "LZ",
     "subject": "GERMAN",
-    "room": "R_7"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "E3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_16"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H9_50_10_35",
-    "group": "E3",
-    "teacher": "SP",
-    "subject": "POLISH",
     "room": "R_3"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H12_45_13_30",
-    "group": "E3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_15"
-  },
-  {
     "day": "MONDAY",
-    "hour": "H8_00_8_45",
-    "group": "E3",
-    "teacher": "SP",
-    "subject": "POLISH",
-    "room": "R_14"
-  },
-  {
-    "day": "THURSDAY",
     "hour": "H8_55_9_40",
-    "group": "E3",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_16"
+    "group": "F3",
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_23"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "E3",
-    "teacher": "AJ",
-    "subject": "HISTORY",
-    "room": "R_14"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "E3",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF1"
-  },
-  {
-    "day": "MONDAY",
+    "day": "THURSDAY",
     "hour": "H11_50_12_35",
-    "group": "E3",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H13_40_14_25",
-    "group": "E3",
-    "teacher": "PS",
-    "subject": "WF",
-    "room": "R_WF2"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
     "group": "F3",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_8"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
-    "group": "F3",
-    "teacher": "JW",
-    "subject": "GEOGRAPHY",
-    "room": "R_4"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H9_50_10_35",
-    "group": "F3",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_3"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H12_45_13_30",
-    "group": "F3",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_13"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H14_35_15_20",
-    "group": "F3",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_3"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "F3",
-    "teacher": "AL",
-    "subject": "MATH",
+    "teacher": "KW",
+    "subject": "POLISH",
     "room": "R_21"
   },
   {
     "day": "FRIDAY",
     "hour": "H10_55_11_40",
-    "group": "F3",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_1"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H13_40_14_25",
-    "group": "F3",
-    "teacher": "AL",
-    "subject": "MATH",
-    "room": "R_14"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H13_40_14_25",
-    "group": "F3",
-    "teacher": "AS",
-    "subject": "ENGLISH",
-    "room": "R_2"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
-    "group": "F3",
-    "teacher": "AS",
-    "subject": "ENGLISH",
-    "room": "R_13"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "F3",
-    "teacher": "AS",
-    "subject": "ENGLISH",
-    "room": "R_10"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H8_00_8_45",
-    "group": "F3",
-    "teacher": "AS",
-    "subject": "ENGLISH",
-    "room": "R_15"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H14_35_15_20",
-    "group": "F3",
-    "teacher": "AS",
-    "subject": "ENGLISH",
-    "room": "R_13"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H10_55_11_40",
-    "group": "F3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_26"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H11_50_12_35",
-    "group": "F3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_9"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H9_50_10_35",
-    "group": "F3",
-    "teacher": "KW",
-    "subject": "POLISH",
-    "room": "R_7"
-  },
-  {
-    "day": "MONDAY",
-    "hour": "H13_40_14_25",
-    "group": "F3",
-    "teacher": "KW",
-    "subject": "POLISH",
-    "room": "R_25"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "F3",
-    "teacher": "KW",
-    "subject": "POLISH",
-    "room": "R_26"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H8_00_8_45",
     "group": "F3",
     "teacher": "KW",
     "subject": "POLISH",
@@ -3913,71 +3897,87 @@
   },
   {
     "day": "TUESDAY",
+    "hour": "H9_50_10_35",
+    "group": "F3",
+    "teacher": "KW",
+    "subject": "POLISH",
+    "room": "R_18"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
+    "group": "F3",
+    "teacher": "KW",
+    "subject": "POLISH",
+    "room": "R_19"
+  },
+  {
+    "day": "THURSDAY",
     "hour": "H8_55_9_40",
     "group": "F3",
     "teacher": "SA",
     "subject": "HIS",
-    "room": "R_5"
+    "room": "R_14"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H8_00_8_45",
+    "day": "TUESDAY",
+    "hour": "H11_50_12_35",
     "group": "F3",
     "teacher": "SA",
     "subject": "HIS",
-    "room": "R_25"
+    "room": "R_16"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H13_40_14_25",
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
     "group": "F3",
     "teacher": "TJ",
     "subject": "WF",
     "room": "R_WF1"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
+    "day": "FRIDAY",
+    "hour": "H10_55_11_40",
     "group": "F3",
     "teacher": "TJ",
     "subject": "WF",
     "room": "R_WF2"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H11_50_12_35",
+    "day": "THURSDAY",
+    "hour": "H8_55_9_40",
     "group": "F3",
     "teacher": "TJ",
     "subject": "WF",
-    "room": "R_WF3"
+    "room": "R_WF2"
   },
   {
-    "day": "FRIDAY",
+    "day": "WEDNESDAY",
+    "hour": "H11_50_12_35",
+    "group": "G3",
+    "teacher": "MM",
+    "subject": "BIOLOGY",
+    "room": "R_2"
+  },
+  {
+    "day": "THURSDAY",
     "hour": "H10_55_11_40",
     "group": "G3",
     "teacher": "MM",
     "subject": "BIOLOGY",
-    "room": "R_14"
+    "room": "R_2"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H8_55_9_40",
-    "group": "G3",
-    "teacher": "MM",
-    "subject": "BIOLOGY",
-    "room": "R_25"
-  },
-  {
-    "day": "MONDAY",
+    "day": "FRIDAY",
     "hour": "H10_55_11_40",
     "group": "G3",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_3"
+    "room": "R_1"
   },
   {
     "day": "THURSDAY",
-    "hour": "H14_35_15_20",
+    "hour": "H12_45_13_30",
     "group": "G3",
     "teacher": "AL",
     "subject": "MATH",
@@ -3989,106 +3989,74 @@
     "group": "G3",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_13"
+    "room": "R_11"
   },
   {
-    "day": "TUESDAY",
-    "hour": "H14_35_15_20",
+    "day": "WEDNESDAY",
+    "hour": "H10_55_11_40",
     "group": "G3",
     "teacher": "AL",
     "subject": "MATH",
-    "room": "R_7"
+    "room": "R_22"
   },
   {
-    "day": "MONDAY",
+    "day": "WEDNESDAY",
+    "hour": "H8_55_9_40",
+    "group": "G3",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_12"
+  },
+  {
+    "day": "WEDNESDAY",
     "hour": "H12_45_13_30",
     "group": "G3",
     "teacher": "AP",
     "subject": "ENGLISH",
-    "room": "R_19"
+    "room": "R_5"
+  },
+  {
+    "day": "THURSDAY",
+    "hour": "H13_40_14_25",
+    "group": "G3",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_14"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H10_55_11_40",
+    "group": "G3",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_12"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H8_55_9_40",
+    "group": "G3",
+    "teacher": "AP",
+    "subject": "ENGLISH",
+    "room": "R_12"
   },
   {
     "day": "FRIDAY",
     "hour": "H9_50_10_35",
     "group": "G3",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_14"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H8_55_9_40",
-    "group": "G3",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_25"
+    "teacher": "LZ",
+    "subject": "GERMAN",
+    "room": "R_26"
   },
   {
     "day": "TUESDAY",
-    "hour": "H13_40_14_25",
+    "hour": "H9_50_10_35",
     "group": "G3",
-    "teacher": "AP",
-    "subject": "ENGLISH",
+    "teacher": "LZ",
+    "subject": "GERMAN",
     "room": "R_22"
   },
   {
-    "day": "THURSDAY",
-    "hour": "H8_55_9_40",
-    "group": "G3",
-    "teacher": "AP",
-    "subject": "ENGLISH",
-    "room": "R_9"
-  },
-  {
-    "day": "THURSDAY",
-    "hour": "H10_55_11_40",
-    "group": "G3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_9"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H12_45_13_30",
-    "group": "G3",
-    "teacher": "LZ",
-    "subject": "GERMAN",
-    "room": "R_20"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H10_55_11_40",
-    "group": "G3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_15"
-  },
-  {
-    "day": "WEDNESDAY",
-    "hour": "H14_35_15_20",
-    "group": "G3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_16"
-  },
-  {
     "day": "FRIDAY",
-    "hour": "H8_00_8_45",
-    "group": "G3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_12"
-  },
-  {
-    "day": "FRIDAY",
-    "hour": "H12_45_13_30",
-    "group": "G3",
-    "teacher": "MD",
-    "subject": "POLISH",
-    "room": "R_1"
-  },
-  {
-    "day": "TUESDAY",
     "hour": "H11_50_12_35",
     "group": "G3",
     "teacher": "MD",
@@ -4096,32 +4064,64 @@
     "room": "R_5"
   },
   {
-    "day": "TUESDAY",
+    "day": "THURSDAY",
+    "hour": "H14_35_15_20",
+    "group": "G3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_9"
+  },
+  {
+    "day": "FRIDAY",
+    "hour": "H8_55_9_40",
+    "group": "G3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_6"
+  },
+  {
+    "day": "WEDNESDAY",
     "hour": "H8_00_8_45",
     "group": "G3",
     "teacher": "MD",
     "subject": "POLISH",
-    "room": "R_24"
-  },
-  {
-    "day": "TUESDAY",
-    "hour": "H9_50_10_35",
-    "group": "G3",
-    "teacher": "AJ",
-    "subject": "HIS",
-    "room": "R_3"
+    "room": "R_6"
   },
   {
     "day": "THURSDAY",
-    "hour": "H11_50_12_35",
+    "hour": "H10_55_11_40",
+    "group": "G3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_22"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H14_35_15_20",
+    "group": "G3",
+    "teacher": "MD",
+    "subject": "POLISH",
+    "room": "R_10"
+  },
+  {
+    "day": "MONDAY",
+    "hour": "H13_40_14_25",
     "group": "G3",
     "teacher": "AJ",
     "subject": "HIS",
-    "room": "R_1"
+    "room": "R_15"
   },
   {
     "day": "WEDNESDAY",
-    "hour": "H11_50_12_35",
+    "hour": "H12_45_13_30",
+    "group": "G3",
+    "teacher": "AJ",
+    "subject": "HIS",
+    "room": "R_8"
+  },
+  {
+    "day": "TUESDAY",
+    "hour": "H12_45_13_30",
     "group": "G3",
     "teacher": "TJ",
     "subject": "WF",
@@ -4133,14 +4133,14 @@
     "group": "G3",
     "teacher": "TJ",
     "subject": "WF",
-    "room": "R_WF3"
+    "room": "R_WF1"
   },
   {
-    "day": "FRIDAY",
-    "hour": "H11_50_12_35",
+    "day": "THURSDAY",
+    "hour": "H12_45_13_30",
     "group": "G3",
     "teacher": "TJ",
     "subject": "WF",
-    "room": "R_WF3"
+    "room": "R_WF1"
   }
 ]
